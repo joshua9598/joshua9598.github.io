@@ -1,0 +1,69 @@
+.banner {
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 1.3em;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    border: solid 3px black;
+}
+
+.primary-navigation {
+    text-align: center;
+    background-color: blanchedalmond;
+    border:solid 3px black;
+}
+
+.navigation {
+    list-style-type: none;
+}
+
+#about {
+ text-align: center;
+ list-style-position: inside;
+ background-color: blanchedalmond;
+ border:solid 3px black;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.collectionlist {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.collectionimages {
+    display: inline-block;
+}
+
+#sneakersicollect {
+    background-color: blanchedalmond;
+    padding-top: 5px;
+    border: solid 3px black;
+}
+
+h2 {
+    text-align: center;
+}
+
+#collection {
+    text-align: center;
+    background-color: blanchedalmond;
+    border:solid 3px black;
+}
+
+#wishlist {
+    text-align: center;
+    background-color: blanchedalmond;
+    border:solid 3px black;
+    list-style-position: inside;
+}
+
+footer {
+    background-color: blanchedalmond;
+    border:solid 3px black;
+    padding-top: 20px;
+    padding-bottom: 0;
+    padding-left: 10px;
+}
